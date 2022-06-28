@@ -1,5 +1,5 @@
-Description of each small projects
-========================
+Description
+===========
 
 1. [Attendence.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Attendence.py)
 
@@ -13,15 +13,15 @@ Auto Name Generator uses the 26 letters in the alphabet and auto generates names
 
 Guess a number is a mini game that allows the computer to randomly generate a number in the range of 100 and allows the user to guess whether it's larger or smaller.
 
-4. [Loan calculator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Loan calculator.py)
+4. [Loan calculator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Loan%20calculator.py)
 
 Loan calculator takes in the loan amout, number of years and interest rate and oututs the amount of monhthly payments.
 
-5. [Mean, median, mode and other statistical functions.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Mean, median, mode and other statistical functions.py)
+5. [Mean, median, mode and other statistical functions.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Mean,%20median,%20mode%20and%20other%20statistical%20functions.py)
 
 Mean, median, mode and other statistical functions calculates the mean, median, mode and other statistical functions.
 
-6. [Middle letter.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Middle letter.py)
+6. [Middle letter.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Middle%20letter.py)
 
 Middle letter outputs the middle letter of an odd word ans the middle two letters of an even word.
 
@@ -29,18 +29,18 @@ Middle letter outputs the middle letter of an odd word ans the middle two letter
 
 Palindrome checks whether a word is the same spelled backwards.
 
-8. [Product Catalogue.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Product Catalogue.py)
+8. [Product Catalogue.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Product%20Catalogue.py)
 
 Product Catalogue allows the usre to input the product in the warehouse.
 
-9. [Shortest Word.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Shortest Word.py)
+9. [Shortest Word.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Shortest%20Word.py)
 
 Shortest Wordk output the shortest words in a list.
 
-10. [Simple Calculator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Simple Calculator.py)
+10. [Simple Calculator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Simple%20Calculator.py)
 
 Simple Calculator is a simple mathematical calculation program.
 
-11. [Simple password rules.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Simple password rules.py)
+11. [Simple password rules.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Simple%20password%20rules.py)
 
 Simple password rules only allows the user to set a password within its parameters.
