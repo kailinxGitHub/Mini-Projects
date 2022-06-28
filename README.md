@@ -4,10 +4,10 @@ Description of each small projects
 1. [Attendence.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Attendence.py)
 Attendence is a simple program that inputs the names of students in a classroom and adds them to a list.
 
-2. [Auto Name Generator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Auto Name Generator.py)
+2. [Auto Name Generator.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Auto%20Name%20Generator.py)
 Auto Name Generator uses the 26 letters in the alphabet and auto generates names for the user.
 
-3. [Guess a number.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Guess a number.py)
+3. [Guess a number.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/Guess%20a%20number.py)
 Guess a number is a mini game that allows the computer to randomly generate a number in the range of 100 and allows the user to guess whether it's larger or smaller.
 
 4. [Local calculation.py](https://github.com/kailinxGitHub/Mini-Projects/blob/master/)
